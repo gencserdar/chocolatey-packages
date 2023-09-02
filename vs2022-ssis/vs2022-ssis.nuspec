@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2013/05/nuspec.xsd">
+  <metadata>
+    <id>ssis-vs2022</id>
+    <version>1.1.0</version>
+    <title>Microsoft SQL Server Integration Services Projects for Visual Studio 2022</title>
+    <authors>Microsoft</authors>
+    <owners>EQmatica BV</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <projectUrl>https://marketplace.visualstudio.com/items?itemName=SSIS.MicrosoftDataToolsIntegrationServices</projectUrl>
+    <iconUrl>https://ssis.gallerycdn.vsassets.io/extensions/ssis/microsoftdatatoolsintegrationservices/1.1/1689846203167/Microsoft.VisualStudio.Services.Icons.Default</iconUrl>
+    <description>_REPLACE_</description>
+    <summary>__REPLACE__</summary>
+    <tags>ssis visualstudio extension ssis2022 microsoft sql integration sql-server</tags>
+  </metadata>
+</package>
