@@ -9,8 +9,21 @@
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <projectUrl>https://marketplace.visualstudio.com/items?itemName=SSIS.MicrosoftDataToolsIntegrationServices</projectUrl>
     <iconUrl>https://ssis.gallerycdn.vsassets.io/extensions/ssis/microsoftdatatoolsintegrationservices/1.1/1689846203167/Microsoft.VisualStudio.Services.Icons.Default</iconUrl>
-    <description>_REPLACE_</description>
-    <summary>__REPLACE__</summary>
-    <tags>ssis visualstudio extension ssis2022 microsoft sql integration sql-server</tags>
+    <description>
+## Notes
+
+This package has the following additional requirements:
+
+* Visual Studio 2022
+* .NET Framework 4.8 targeting pack
+* SQL Server Data Tools(SSDT)
+
+There is no standalone installer for SQL Server Data Tools for Visual Studio 2022.
+To install SSDT, check:
+https://learn.microsoft.com/en-us/sql/ssdt/download-sql-server-data-tools-ssdt?view=sql-server-ver16
+    </description>
+    <summary>SQL Server Integration Services extension for Visual Studio 2022</summary>
+    <tags>ssis visualstudio extension ssis2022 visual-studio-2022 vs2022 vs-2022 microsoft sql integration sql-server</tags>
+    <packageSourceUrl>https://github.com/gencserdar/chocolatey-packages/tree/main/vs2022-ssis</packageSourceUrl>
   </metadata>
 </package>
