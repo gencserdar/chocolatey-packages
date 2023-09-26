@@ -11,7 +11,7 @@ This package has the following additional requirements:
 * .NET Framework 4.8 targeting pack
 * SQL Server Data Tools(SSDT)
 
-.NET Framework 4.8 targeting pack will automatically be installed when the command to install SSIS is entered into the PowerShell. 
+.NET Framework 4.8 targeting pack will automatically be installed while SSIS for Visual Studio 2022 is installed.
 
-There are no standalone SQL Server Data Tools for the Visual Studio 2022 installer.
-To install SSDT, check https://learn.microsoft.com/en-us/sql/ssdt/download-sql-server-data-tools-ssdt?view=sql-server-ver16.
+There are no standalone installers to install SQL Server Data Tools(SSDT) for Visual Studio 2022.
+To download SSDT, check https://learn.microsoft.com/en-us/sql/ssdt/download-sql-server-data-tools-ssdt?view=sql-server-ver16.
